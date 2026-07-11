@@ -1,0 +1,239 @@
+What does WWW stand for in a website address?
+Wide World Web
+World Wide Web
+Web World Wide
+World Web Wide
+2
+Easy
+
+Which key combination is used to copy text?
+Ctrl V
+Ctrl C
+Ctrl X
+Ctrl Z
+2
+Easy
+
+What does PDF stand for?
+Personal Data File
+Printed Document Format
+Portable Document Format
+Public Data File
+3
+Easy
+
+How many bits make up one byte?
+4 bits
+16 bits
+8 bits
+32 bits
+3
+Easy
+
+Which company owns YouTube?
+Microsoft
+Facebook
+Google
+Amazon
+3
+Easy
+
+What year was the first iPhone released?
+2005
+2010
+2007
+2003
+3
+Medium
+
+Which programming language is known as the language of the web?
+Python
+JavaScript
+C plus plus
+Java
+2
+Medium
+
+What does HTTP stand for?
+High Transfer Text Protocol
+HyperText Transmission Process
+HyperText Transfer Protocol
+Home Tool Transfer Protocol
+3
+Medium
+
+How many possible values can one bit store?
+4 values
+2 values
+8 values
+16 values
+2
+Medium
+
+What is the binary equivalent of decimal number 10?
+1001
+1010
+1100
+1111
+2
+Medium
+
+Who is credited with inventing the World Wide Web?
+Bill Gates
+Steve Jobs
+Tim Berners Lee
+Mark Zuckerberg
+3
+Hard
+
+What is the maximum number of devices that can connect to Bluetooth 5?
+Only 7
+Only 20
+Theoretically unlimited
+Only 50
+3
+Hard
+
+Which company created the first microprocessor?
+AMD
+Intel
+IBM
+Apple
+2
+Hard
+
+What does CAPTCHA stand for?
+Computer Assisted Program To Check Humans
+Coded Access Program To Control Hackers
+Completely Automated Public Turing test
+Central Authentication Protocol
+3
+Hard
+
+How many layers does the TCP IP model have?
+7 layers
+5 layers
+4 layers
+3 layers
+3
+Hard
+
+What is the purpose of a router in a home network?
+Connect multiple devices to the internet
+Increase internet speed
+Scan for viruses
+Block ads
+1
+Easy
+
+Which of these is a popular web browser?
+Windows
+Chrome
+Excel
+Photoshop
+2
+Easy
+
+What is the main function of RAM in a computer?
+Permanent file storage
+Temporary data access for running programs
+Power supply regulation
+Display graphics
+2
+Easy
+
+A megabyte is approximately how many kilobytes?
+100 KB
+1000 KB
+10,000 KB
+100,000 KB
+2
+Easy
+
+Which symbol is used in an email address?
+@
+#
+&
+%
+1
+Easy
+
+What does “SSD” stand for in computer storage?
+Solid State Drive
+System Storage Device
+Sequential Saving Disk
+Static Sector Drive
+1
+Medium
+
+Which protocol is used for securely sending emails?
+FTP
+SMTP
+HTTPS
+IMAP
+4
+Medium
+
+In programming, what is a “loop” primarily used for?
+Stopping a program
+Repeating a set of instructions
+Declaring variables
+Connecting to the internet
+2
+Medium
+
+Which of these is *not* a relational database management system?
+MySQL
+Oracle
+MongoDB
+PostgreSQL
+3
+Medium
+
+What does “GUI” stand for?
+General User Interface
+Graphical User Interaction
+Graphical User Interface
+Global Utility Interface
+3
+Medium
+
+In networking, what is the main purpose of a “subnet mask”?
+To hide a network from hackers
+To divide an IP network into subnetworks
+To increase wireless signal strength
+To encrypt data packets
+2
+Hard
+
+Which data structure operates on a “Last In, First Out” (LIFO) principle?
+Queue
+Array
+Stack
+Linked List
+3
+Hard
+
+What does “ACID” refer to in database systems?
+A set of transaction properties (Atomicity, Consistency, Isolation, Durability)
+A type of database encryption
+A query optimization method
+A data backup protocol
+1
+Hard
+
+Which IEEE standard is used for Wi-Fi?
+IEEE 802.3
+IEEE 802.11
+IEEE 1394
+IEEE 1284
+2
+Hard
+
+What is “phishing” in cybersecurity?
+A type of denial-of-service attack
+Stealing data by impersonating a trustworthy entity
+Encrypting files for ransom
+Scanning for open network ports
+2
+Hard

@@ -1,0 +1,48 @@
+==================== QUIZ SESSION ====================
+Player: nbgfd
+Date: 2025-12-08 11:27:24
+Category: Science | Difficulty: Easy
+Score: 113 | Correct: 9 | Wrong: 1
+======================================================
+
+==================== QUIZ SESSION ====================
+Player: GFGHF
+Date: 2025-12-08 11:38:55
+Category: Science | Difficulty: Medium
+Score: 22 | Correct: 4 | Wrong: 6
+======================================================
+
+==================== QUIZ SESSION ====================
+Player: pooo
+Date: 2025-12-08 16:11:36
+Category: Science | Difficulty: Easy
+Score: 35 | Correct: 4 | Wrong: 5
+======================================================
+
+==================== QUIZ SESSION ====================
+Player: alexa
+Date: 2025-12-09 10:55:21
+Category: Science | Difficulty: Easy
+Score: 66 | Correct: 6 | Wrong: 4
+======================================================
+
+......................._.
+Player: kiran
+Date: 2026-03-16 15:08:20
+Category: Science
+Difficulty: Easy
+Score: 16
+Correct: 3
+Wrong: 7
+......................._.
+
+......................._.
+Player: kiran
+Date: 2026-03-16 15:26:42
+Category: Science
+Difficulty: Easy
+Score: 72
+Correct: 6
+Wrong: 4
+......................._.
+
